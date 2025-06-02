@@ -3,9 +3,6 @@
     "ethereum": {
       "ownedBy": "0x266e9b3Dcf10E393db54838394f49172dC19d3f7"
     },
-    "sepolia": {
-      "ownedBy": "0x01CB8D4094A5784cd5FbD089d1C0188B08ff56dA"
-    },
     "filecoin": {
       "ownedBy": "0x44f59d8C47EF6Fa8fcF477Bfead562268Dc6C8AE"
     },
@@ -16,6 +13,9 @@
       "ownedBy": "0xEF4B994f97092fD22B8a880c47F053910788471b"
     },
     "localtestnet": {
+      "ownedBy": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
+    },
+    "sepolia": {
       "ownedBy": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
     }
   }
